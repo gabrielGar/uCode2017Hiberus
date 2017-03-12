@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BeaconDataHotel>
+      <uuid>f7826da6-4fa2-4e98-8024-bc5b71e0893e</uuid>
+      <lang>es</lang>
+      <notificationContent>Menú del día</notificationContent>
+      <beaconName>Restaurante</beaconName>
+      <description>Desde aquí podrá acceder al menú del restaurante.</description>
+      <htmlcontent><![CDATA[
+<h1>Carta del restaurante Celebris</h1>
+<h3>Nombre del Chef: José Luis Reyes</h3>
+
+<p><b>Entrantes suaves y elegantes</b></p>
+<ul>
+  <li>Presa curada de Latón de la Fueva, pan con tomate y olivas del bajo Aragón</li>
+  <li>Paté casero de pollo de corral con sus compotas y pan brioche</li>
+  <li>Ensalada de trucha marinada, su pil-pil y aceituna deshidratada</li>
+  <li>Secreto ibérico escabechado con su aliño, manzana ácida y brotes</li>
+<li>Coca al vapor con roast beef, salsa tártara y encurtidos</li>
+<li>Patata cremosa, huevo a baja temperatura y aceite de trufa</li>
+<li>La huerta aragonesa de invierno con langostinos y chipiron</li>
+<li>Pasta fresca fusillone con mascarpone de setas, queso curado y tartufo</li>
+
+</ul>
+
+<p><b>Principales de aquí al lado y de tan lejos, o tan cerca</b></p>
+<ul>
+  <li>Lomo de merluza, tallarines de calabacín al curry y coulis de mango</li>
+  <li>Atún tereyaki, verduritas al wok, jengibre y su mahonesa</li>
+  <li>Lomo de corvina asada, batata, salsa de azafrán y toques cítricos</li>
+  <li>Magret de pato, manzana, zanahoria baby y rúcula ácida</li>
+<li>Paletilla de Ternasco de Aragón IGP deshuesada, nabo daikon y ensalada de menta y cilantro</li>
+<li>Costilla de ternera asada con su jugo a la mostaza antigua y patata rota</li>
+<li>Tagliata de ternera de la finca de Jiménez Barbero a la parrilla con pico de gallo de piña</li>
+
+</ul>
+
+<p><b>Haz hueco para el postre</b></p>
+<ul>
+  <li>Crumble de melocotón de Calanda, chocolate blanco, menta, lima y toques de chile</li>
+  <li>Yogur salado a la miel, bizcocho de almendra, frutos rojos y cacao</li>
+  <li>Chocolate con especias</li>
+  <li>Collage de frutas</li>
+<li>Manzana souflada, sopa de chocolate y helado</li>
+<li>Galleta de mesli con semifrio de queso y confitura de uva</li>
+
+</ul>
+
+
+<p><b>Nuestra manera de entender el vino</b></p>
+<ul>
+  <li>Particular Blanco Chardonnay y Moscatel de Alejandría, D.O. Cariñena</li>
+  <li>Flor de Añón Verdejo, D.O. Campo de Borja</li>
+  <li>Pirineos blanco Chardonnay, Sauvignon Blanc, Gewürztraminer, D.O. Somontano</li>
+  <li>Particular tinto Joven Garnacha, D.O. Cariñena</li>
+<li>Flor de Añón tinto Roble, Merlot, Syrah, D.O. Campo de Borja</li>
+<li>Cruz de Piedra tinto Garnacha, D.O. Calatayud</li>
+<li>Botijo Rojo tinto Garnacha, I.G.P. Valdejalón.+6€</li>
+<li>Enate Cabernet-Merlot, D.O. Somontano.+6€</li>
+<li>A de Aylés, Merlot, Tempranillo, Garnacha, Cabernet Sauvignon, Vino de Pago.+6€</li>
+<li>Garnacha de Fuego, D.O. Calatayud.+7€</li>
+<li>Viña Real Crianza Tempranillo, D.O.Ca Rioja.+7€</li>
+<li>La Invierna Reserva Tempranillo, D.O. Ca. Rioja.+8€</li>
+<li>Borsao Tres Picos, D.O. Campo de Borja.+14€</li>
+<li>Pétalos del Bierzo Mencía, D.O. Bierzo.+21€</li>
+<li>Camins del Priorat, D.O. Ca. Priorat.+21€</li>
+<li>Freixenet Vintage Reserva Brut Natura, D.O. Cava.+10€</li>
+<li>Champagne Mumm Cordon Rouge Brut Nature, AOC Champagne.+35€</li>
+
+
+
+</ul>
+
+<p><b>Sobre nosotros</b></p>
+
+<p>El Hotel Hiberus de Zaragoza nos descubre una excelente propuesta gastronómica: Celebris. Es restaurante elabora y ofrece una cocina de fusión nacional e internacional.</p>
+
+<p>Degusta en su atractivo salón de decoración minimalista y luz natural, platos como el Solomillo de ternera, piquillos caramelizados y salsa gorgonzola, la Pintada glaseada con mandarina y cacao, la Tosta de foie fresco, sal negra y fresa liofilizada o los Guisantes de primavera, pulpo braseado y pimentón de la Vera. Sabores que jamás olvidaréis.</p>
+
+<p>Celebris es la celebración de la cocina internacional con toques tradicionales de la zona. ¿Te vienes a esta fiesta gastronómica?</p>
+
+<p><b>Precios del Restaurante</b></p>
+
+<p>Precio medio a la carta. 27€</p>
+<small>precio medio a la carta sin bebida: entrante/principal o principal/postre)</small>
+
+
+<p><b>Precios medio de las bebidas</b></p>
+<p>Media botella de agua mineral. 2.2€</p>
+<p>Copa de vino. 3€</p>
+<p>Botella de vino. 10€</p>
+<p>Copa de champán. 3.1€</p>
+<p>Café. 1.65€</p>
+
+<p><small>Precios por persona con IVA incluido. Los precios, platos y composición de los menús son susceptibles de cambiar. Los precios que aparecen no tienen aplicada ninguna promoción.</small></p>
+
+<p><b>Cómo llegar al restaurante Celebris</b></p>
+
+<a href="https://www.google.es/maps/place/Hotel+Hiberus/@41.6678377,-0.9089726,18z/data=!4m5!3m4!1s0xd5913d2f814d8bb:0x5501e96b37977c3!8m2!3d41.6677556!4d-0.9085917" >Aqui</a>
+
+<p><b>Horario de apertura</b></p>
+<p>De martes a sábado de 13.30 a 15.30 y de 20.30 a 23.30h</p>
+
+<p><b>Servicios</b></p>
+
+<p>Mastercard , Tarjeta de crédito , Visa</p>
+<p>Restaurante privatizable (60 máximo de personas.)</p>
+<p>Acceso minusválidos , Aire acondicionado , Aparcacoches , Bar , Catering , English spoken , Français parlé , Privatizable , Wifi</p>]]></htmlcontent>
+
+</BeaconDataHotel>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BeaconDataHotel>
+      <uuid>e2c56db5-dffb-48d2-b060-d0f5a71096e0</uuid>
+      <lang>es</lang>
+      <notificationContent>Servicio de Habitaciones</notificationContent>
+      <beaconName>Habitación</beaconName>
+      <description>Desde aquí podrá controlar su servicio de habitaciones.</description>
+      <htmlcontent><![CDATA[<h1>Servicio de Habitación</h1>
+
+<h1><strong>Elija una opci&oacute;n</strong></h1>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Puerta</strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<ul>
+<ul>
+<li>
+<p><a href="none">Abrir puerta</a></p>
+</li>
+<li>
+<p><a href="none">Cerrar puerta</a></p>
+</li>
+</ul>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Calefacci&oacute;n</strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<ul>
+<li>
+<p><a href="none">Subir temperatura</a></p>
+</li>
+<li>
+<p><a href="none">Bajar temperatura</a></p>
+</li>
+
+</ul>]]></htmlcontent>
+
+</BeaconDataHotel>
